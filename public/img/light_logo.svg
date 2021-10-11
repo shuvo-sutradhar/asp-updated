@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="26.211" viewBox="0 0 56 26.211">
+  <g id="Group_1" data-name="Group 1" transform="translate(-451 -287)">
+    <path id="light_logo" d="M13.091,0A13.1,13.1,0,0,0,1.844,19.832q.293.491.63.955a13.112,13.112,0,0,0,16.747,3.9l-1.057-1.826A11,11,0,1,1,12.048,2.153c.344-.032.692-.049,1.044-.049s.7.017,1.043.049A11,11,0,0,1,21.89,19.7l-8.8-15.215L4.872,18.721h3.17l5.049-8.747L19.9,21.74l1.065,1.84A13.1,13.1,0,0,0,13.091,0Z" transform="translate(451.015 287)" fill="#ed64a6"/>
+    <text id="ASP" transform="translate(481 306)" fill="#fff" font-size="14" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">ASP</tspan></text>
+  </g>
+</svg>
